@@ -1,3 +1,3 @@
+import pandas as pd
 import streamlit as st
-pandas
-matplotlib
+import matplotlib.pyplot as plt
